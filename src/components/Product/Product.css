@@ -1,0 +1,24 @@
+.product{
+    height: 510px;
+    width: 300px;
+    border: 1px solid salmon;
+    border-radius: 8px;
+    
+    margin-left: 0;
+    position: relative;
+}
+.product img{
+    height: 286px;
+    width: 286x;
+}
+.btn-cart{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    border-radius:7px;
+    background: rgb(255 224 179);
+}
+.btn-cart:hover {
+    background:orange;
+}
